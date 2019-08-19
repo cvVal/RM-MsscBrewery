@@ -8,6 +8,7 @@
 		<version>1.0.7</version>
 	</parent>
 
+	<groupId>guru.microservices</groupId>
 	<artifactId>mssc-brewery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mssc-brewery</name>
